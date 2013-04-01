@@ -8,3 +8,10 @@ To Use
 
 1. pip install -r requirements.txt
 1. ./4warn.py b 'search string'
+
+
+ToDo
+----
+
+* add persistence. script should run in background, scan for new threads, and update old ones periodically.
+* add notifier. This could just be an email sender to send reports via mail-to-sms gateway.

@@ -6,7 +6,6 @@
 To Use
 ------
 
-1. pip install -r requirements.txt
 1. ./4warn.py b 'search string'
 
 
